@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Simple webpage that imitates Addressbook/Phonebook where users add their friend with accompanying contact information. No blog style posts, status updates or chat between users are present.
 
 Components, frameworks, languages and services used:
 
